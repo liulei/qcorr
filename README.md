@@ -5,4 +5,4 @@ We present a quantum computing framework for VLBI data correlation. We point out
 **Note:**
 If you make use of the quantum pipeline in this repo, please quote the repo link: `https://github.com/liulei/qcorr` and cite the paper:
 
-- `Lei Liu, "A quantum computing framework for VLBI data correlation"`
+- `Lei Liu, "A quantum computing framework for VLBI data correlation", 2026, arXiv:2602.04269`
